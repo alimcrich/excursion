@@ -1,0 +1,40 @@
+/** universal styles **/
+body{
+    font-family: Verdana;
+    text-align: center;
+    background-color: black;
+}
+
+/** Title **/
+
+h1{
+    color: white;
+    font-size: 50px;
+}
+
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/** Section with video **/
+h2{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p{
+    font-size: 21px;
+    color: gray;
+}
+/** Section with image **/
+
+/** Section with icon **/
+
+
+/** Footer **/
+#copyright{
+    text-align: right;
+    color: gray;
+}
